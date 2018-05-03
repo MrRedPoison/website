@@ -23,4 +23,3 @@ class Song(models.Model):
 
     def __str__(self):
         return self.song_titles
-video 33 4:16
